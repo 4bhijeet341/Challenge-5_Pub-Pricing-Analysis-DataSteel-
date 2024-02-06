@@ -25,4 +25,4 @@ Excited to share my solution for the SteelData SQL Challenge 5! As a Pricing Ana
 
 **Conclusion:**
 
-Wrapping up the SteelData SQL Challenge 5, I found the experience both challenging and insightful. Some questions pushed the boundaries of my SQL skills, providing valuable learning opportunities. 💡 I encourage every data aspirant to take on similar challenges to sharpen their analytical abilities and broaden their horizons. Keep exploring, keep learning! 🌟 #SteelDataChallenge5
+Wrapping up the SteelData SQL Challenge 5, I found the experience both challenging and insightful. Some questions pushed the boundaries of my SQL skills, providing valuable learning opportunities. 💡 I encourage every data aspirant to take on similar challenges to sharpen their analytical abilities and broaden their horizons. Keep exploring, keep learning!! 🌟 #SteelDataChallenge5
